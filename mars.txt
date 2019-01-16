@@ -7,3 +7,5 @@ not sure test
 
 like the group
 test again
+
+git is awsome
